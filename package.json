@@ -1,0 +1,28 @@
+{
+  "name": "card-collector",
+  "version": "1.0.0",
+  "description": "Manage your card collection ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingLogan/card-collector.git"
+  },
+  "keywords": [
+    "tcg",
+    "collections",
+    "pokemon"
+  ],
+  "author": "codingLogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingLogan/card-collector/issues"
+  },
+  "homepage": "https://github.com/codingLogan/card-collector#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "type":"module"
+}
